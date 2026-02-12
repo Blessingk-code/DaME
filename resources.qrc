@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/data_aware_metadata_enricher" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
